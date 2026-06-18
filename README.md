@@ -30,16 +30,20 @@ The Ecommerce Sales & Customer Analytics Dashboard is a Power BI project designe
 ## 📂 Dataset Information
 
 The dataset contains ecommerce transaction records including:
-
+----------------------------
 - Order ID
 - Order Date
 - Customer Name
 - Product Category
 - Product Name
 - Sales Amount
-- Quantity Sold
-- Profit
+- ship mode
+- ship date
 - Region/State
+- category
+- sub category
+- -------
+-----------------------------
 
 ---
 
@@ -110,7 +114,7 @@ Ecommerce Sales & Customer Analytics Dashboard
 
 ## 👨‍💻 Author
 
-**Vinay Kumar**
+**Venkata ramana**
 
 - Aspiring Data Analyst
 - Skilled in Excel, SQL, Power BI, Python
